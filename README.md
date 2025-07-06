@@ -22,6 +22,7 @@ Website ini memudahkan pengunjung untuk melihat produk, mencari barang berdasark
 
 ## 📁 Struktur Proyek
 
+```bash
 website-toko/
 ├── index.html
 ├── css/
@@ -33,7 +34,7 @@ website-toko/
 │ │ └── (semua gambar produk)
 │ └── icons/
 │ └── (icon WhatsApp, Shopee, Tokopedia, dll)
-└── README.md
+└── README.md```
 
 🧑 Tentang Proyek Ini
 Website ini dibuat untuk keperluan toko kecil atau UMKM yang ingin memasarkan produk mereka secara online tanpa biaya platform.
